@@ -9,3 +9,7 @@ else
 {
 	Get-ChildItem -Path $place -$Filter $item -Recurse 2> $null
 }
+
+#Ahora veremos como vamos a hacer para que las cosas no se tensen como deberian de ser, pero bueno, luego podemos hacer más cosas como de costumbre y seguir durmiendo muchoo más de lo que deberiamos de hacer, pero bueno.. lo que si te voy a decir es que lo mejor es no hacer caso de las cosas que no podemos pensar, hoy en día las cosas son cada vez más dificiles de hacer como por ejemplo lo del trabajo, luego pienso que las cos.
+
+#Intentaremos de nuevo crear cosas para no perder lo que ya llevamos. por ejemplo, una de las cosas que podemos ver es lo que hoy en día se conoce como lo que antes no se conocia por ejemplo, cuando no sabemos lo que vamos a ser los dos el día de ayer, o mejor dicho lo que no sabemos como se va a poner despues de las cosas no se mejoren despues de las que hoy en días lolos mejores diías no se pueden creer, pero por ejemplo, hoy endía no se 
